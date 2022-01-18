@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Jeff-Andrade
-- 👀 I’m interested in Artificial Intelligence/Statistics
-- 🌱 I’m currently learning Python for Machine Learning with TensorFlow, Keras and Scikit-Learn
+
